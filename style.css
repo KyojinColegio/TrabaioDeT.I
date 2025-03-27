@@ -11,12 +11,29 @@ h1 {color: black; text-align: center;
 p {
     text-align: center;
 }
-img {
-    text-align: center;
-}
 strong {
     color: #ff0000;
 }
 header, footer{
     height: 75px;
+}
+.button2{
+    outline-style: outset;
+    width: 150px;
+    background-color: green;
+    border-radius: 5px;
+    margin: 50px 100px 50px  0;
+}
+a{
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+}
+.button1 {
+    outline-style: outset;
+    width: 150px;
+    background-color: red;
+    border-radius: 5px;
+    text-emphasis-color: white;
+    margin: 50px 100px 50px  0;
 }
